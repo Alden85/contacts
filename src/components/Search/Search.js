@@ -2,7 +2,7 @@ import { Input, Button } from 'semantic-ui-react';
 import './Search.css';
 import '../App/App.css';
 
-function Search({ data, searchTerm, setSearchTerm }) {
+function Search({ searchTerm, setSearchTerm }) {
   const handleInputChange = (e) => {
     setSearchTerm(e.target.value);
   };
