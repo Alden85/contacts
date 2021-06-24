@@ -1,6 +1,12 @@
-.logo {
-  font-size: 1.3em;
-  font-family: Hack;
-  padding: 10px 10px 10px 10px;
-  text-align: center;
+.settings {
+  margin-top: 23.5rem;
+}
+
+.menuitem span {
+  color: grey;
+}
+
+.logo span {
+  font-size: 1.2rem;
+  font-weight: bold;
 }
