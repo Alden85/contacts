@@ -1,0 +1,29 @@
+.lastName {
+  margin-left: 45px;
+  margin-bottom: 20px;
+  width: 47%;
+}
+.firstName {
+  width: 47%;
+}
+
+.gender {
+  margin-left: 50px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.email {
+  width: 100%;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.contribution {
+  margin-left: 65%;
+}
+
+.dep {
+  float: right;
+  margin-right: 5px;
+}

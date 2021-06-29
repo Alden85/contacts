@@ -32,6 +32,8 @@ function App() {
   if (loading) return 'Loading...';
   if (error) return 'Error Loading!';
 
+  console.log(data);
+
   return (
     <div className='app'>
       <div className='navbar'>
